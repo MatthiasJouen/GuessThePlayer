@@ -1,0 +1,29 @@
+{
+  "name": "guesstheplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthiasJouen/GuessThePlayer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthiasJouen/GuessThePlayer/issues"
+  },
+  "homepage": "https://github.com/MatthiasJouen/GuessThePlayer#readme",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "gatsby": "^5.4.2",
+    "gatsby-config": "^0.1.1",
+    "gatsby-plugin-sass": "^6.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.57.1"
+  }
+}
